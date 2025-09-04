@@ -1,6 +1,6 @@
 # 📘 Introduction to Software Engineering
 
-### Foundations of Software Engineering
+### SE01 : Foundations of Software Engineering
 
 1. Introduction to Software Engineering
 
@@ -18,7 +18,7 @@
 - Agile Methodologies (Scrum, Kanban, Extreme Programming)
 - DevOps & Continuous Delivery
 
-### Software Project Management
+### SE02 : Software Project Management
 
 3. Project Planning
 
@@ -32,7 +32,7 @@
 - Version Control (Git, GitHub, GitLab)
 - Project tracking tools (Jira, Trello, ClickUp, Notion)
 
-### Requirements Engineering
+### SE03 : Requirements Engineering
 
 5. Requirements Analysis & Specification
 
@@ -43,7 +43,7 @@
 
 6. Requirements Validation & Management
 
-### Software Design
+### SE04 : Software Design
 
 7. Principles of Software Design
 
@@ -62,7 +62,7 @@
 - Wireframing & Prototyping (Figma, Adobe XD)
 - Usability testing
 
-### Software Construction & Implementation
+### SE05 : Software Construction & Implementation
 
 10. Programming Best Practices
 
@@ -77,7 +77,7 @@
 - Java + Spring Boot
 - Cloud-native development
 
-### Software Testing & Quality Assurance
+### SE06 : Software Testing & Quality Assurance
 
 12. Fundamentals of Testing
 
@@ -95,7 +95,7 @@
 - ISO/IEC 25010, McCall’s Quality Model
 - Code review & static analysis tools (SonarQube, ESLint, Prettier)
 
-### Software Maintenance & Evolution
+### SE07 : Software Maintenance & Evolution
 
 15. Types of Maintenance
 
@@ -105,7 +105,7 @@
 
 17. Software Configuration Management
 
-### Advanced & Modern Topics
+### SE08 : Advanced & Modern Topics
 
 18. DevOps & Continuous Delivery
 
