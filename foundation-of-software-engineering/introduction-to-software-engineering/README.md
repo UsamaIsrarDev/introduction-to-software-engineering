@@ -2,6 +2,8 @@ You will learn :
 - Definition of software engineering with scope
 - Scope of software engineering
 
+---
+
 ### Definition of Software Engineering
 Formal Definition (IEEE Standard)
 “Software Engineering is the application of a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software.”
@@ -28,6 +30,8 @@ Example : Imagine two people both want to create an e-commerce website.
   - Result - Stable, scalable, and easy to update.
 
 The second approach is software engineering.
+
+---
 
 ### Scope of Software Engineering
 
@@ -59,4 +63,54 @@ Software engineering covers the entire lifecycle of software — from idea to re
 6. Maintenance & Updates Stage
     - Description : Fixing bugs, improving features, updating dependencies.
     - Example : Add new payment gateways, fix crashes, etc.
+
+#### Areas Included in Software Engineering
+
+Software engineering is not only about programming — it includes:
+
+- Project management
+- Quality assurance
+- Testing
+- Software design
+- Configuration management (Git, CI/CD)
+- Software security
+- User experience (UX)
+- Documentation
+- Maintenance
+
+#### Diagram: Scope of Software Engineering
+
+             +-------------------------------+
+             |       Software Engineering     |
+             +-------------------------------+
+                 /        |         |        \
+                /         |         |         \
+      +-----------+ +-----------+ +-----------+ +-----------+
+      | Development| |  Testing  | | Deployment| |Maintenance|
+      +-----------+ +-----------+ +-----------+ +-----------+
+          |              |             |             |
+      +-----------------------------------------------+
+      |     Project Management, Documentation, QA     |
+      +-----------------------------------------------+
+
+#### Real-World Example: Mobile Banking App
+
+Scope includes:
+- Requirement gathering (security, transactions, UI)
+- Designing backend & frontend
+- Developing using frameworks like React Native + Node.js
+- Testing transactions, login, security
+- Deploying on App Store / Play Store
+- Updating and fixing bugs regularly
+
+#### Key Takeaways
+
+- Concept of Software Engineering
+    - Systematic approach to building and maintaining software.
+
+- Concept of Scope
+    - Covers entire lifecycle: analysis → design → code → test → deploy → maintain.
+
+- Concept of Goal
+    - Deliver high-quality, reliable, maintainable, and cost-effective software.
 
