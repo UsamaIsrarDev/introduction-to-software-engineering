@@ -42,7 +42,7 @@ The second approach is software engineering.
 The scope defines the areas and responsibilities included in the field.
 Software engineering covers the entire lifecycle of software — from idea to retirement.
 
-#### Software Development Life Cycle (SDLC) Stages
+## Software Development Life Cycle (SDLC) Stages
 
 ### 1. Requirements Analysis Stage
 > - Description: Understanding what the user or client needs. 
