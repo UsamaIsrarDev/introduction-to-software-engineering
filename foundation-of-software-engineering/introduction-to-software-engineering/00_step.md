@@ -13,12 +13,6 @@
 > “Software Engineering is the application of a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software.”
 
 ### In Simple Words
-Software Engineering means creating software in a **professional**, **organized**, and **efficient** way — just like civil engineers design buildings using blueprints and rules.
-
-It ensures the software is **reliable**, **maintainable**, and **works efficiently** over time.
-
-OR
-
 Software engineering is like building software in the same professional way we build big projects like bridges, airplanes, or skyscrapers — with planning, design, testing, maintenance, and teamwork.
 
 It’s not just “writing code.”
