@@ -33,3 +33,30 @@ The second approach is software engineering.
 
 The scope defines the areas and responsibilities included in the field.
 Software engineering covers the entire lifecycle of software — from idea to retirement.
+
+#### Software Development Life Cycle (SDLC) Stages
+
+1. Requirements Analysis Stage
+   - Description : Understanding what the user or client needs.
+   - Example : “Users should log in using email or Google.”
+
+2. System Design Stage
+   - Description : Planning the architecture, database, and UI.
+   - Example : Decide to use React frontend + Node backend.
+
+3. Implementation (Coding) Stage
+   - Description : Writing actual code using chosen technologies.
+   - Example : Write clean, modular code in TypeScript.
+
+4. Testing Stage
+   - Description : Checking that the software works correctly and has no bugs.
+   - Example : Unit testing, integration testing, UI testing.
+
+5. Deployment
+    - Description : Delivering the software to users (e.g., on a web server).
+    - Example : Deploy to Vercel or AWS.
+
+6. Maintenance & Updates Stage
+    - Description : Fixing bugs, improving features, updating dependencies.
+    - Example : Add new payment gateways, fix crashes, etc.
+
