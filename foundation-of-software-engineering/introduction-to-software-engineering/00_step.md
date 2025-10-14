@@ -88,6 +88,12 @@ Concept of Goal : Deliver high-quality, reliable, maintainable, and cost-effecti
 
 # 🧠 Introduction to Software Engineering
 
+## You Will Learn:
+
+- Definition of Software Engineering with its Scope  
+- Scope of Software Engineering and its Real-World Applications  
+
+
 ## 📘 Definition of Software Engineering
 
 ### Formal Definition (IEEE Standard)
