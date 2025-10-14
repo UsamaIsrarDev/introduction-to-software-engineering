@@ -1,11 +1,10 @@
 # Introduction to Software Engineering
 
-```
-## You Will Learn:
+> ## You Will Learn
+> - Definition of Software Engineering with its Scope  
+> - Scope of Software Engineering
 
-- Definition of software engineering with scope
-- Scope of software engineering
-```
+
 ## Definition of Software Engineering
 
 ### Formal Definition (IEEE Standard)
