@@ -1,4 +1,4 @@
-You will learn,
+You will learn : 
 - Definition of software engineering with scope
 - Scope of software engineering
 
@@ -19,13 +19,11 @@ It’s about engineering software that is:
 
 Example : Imagine two people both want to create an e-commerce website.
 
-- People as a coder
-  - Approach - Coder’s approach	
+- People as a coder approach
   - Description - Starts coding immediately without planning, documentation, or testing.	
   - Result - Works at first, but breaks easily, hard to update.
 
-- People as a software engineer
-  - Approach - Software Engineer’s approach
+- People as a software engineer approach
   - Description - Plans requirements, designs the system architecture, writes clean modular code, tests it, and maintains version control.
   - Result - Stable, scalable, and easy to update.
 
