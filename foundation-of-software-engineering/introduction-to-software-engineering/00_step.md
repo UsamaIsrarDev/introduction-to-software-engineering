@@ -2,7 +2,9 @@
 
 > ## You Will Learn
 > - Definition of Software Engineering with its Scope  
-> - Scope of Software Engineering
+> - Software vs. hardware
+> - Software characteristics & applications
+> - Software crisis & myths
 
 
 ## Definition of Software Engineering
@@ -131,4 +133,4 @@ Covers entire lifecycle: analysis → design → code → test → deploy → ma
 ### 3. Concept of Goal
 Deliver high-quality, reliable, maintainable, and cost-effective software.
 
-Next Step: **Software Characteristics & Applications**
+Next Step: Software vs. hardware
