@@ -116,13 +116,13 @@ Scope includes:
 ---
 
 ## Recap
-1. Concept of Software Engineering
+> ### Concept of Software Engineering
 > Systematic approach to building and maintaining software.
 
-2. Concept of Scope
+> ### Concept of Scope
 > Covers entire lifecycle: analysis → design → code → test → deploy → maintain.
 
-3. Concept of Goal
+> ### Concept of Goal
 > Deliver high-quality, reliable, maintainable, and cost-effective software.
 
-Next Step: Software vs. hardware
+__Next Step: Software vs. hardware__
