@@ -79,7 +79,14 @@ Software engineering covers the entire lifecycle of software — from idea to re
 #### Areas Included in Software Engineering
 Software engineering is not only about programming — it includes:
 
-Project management, Quality assurance, Testing, Software design, Configuration management (Git, CI/CD), Software security, User experience (UX), Documentation, Maintenance
+- Project management
+- Quality assurance
+- Testing
+- Software design
+- Configuration management (Git, CI/CD)
+- Software security
+- User experience (UX)
+- Documentation, Maintenance
 
 #### Diagram: Scope of Software Engineering
 
@@ -106,31 +113,16 @@ Scope includes:
 - Deploying on App Store / Play Store
 - Updating and fixing bugs regularly
 
-## Importance of Software Engineering
-- Increases **productivity**  
-- Ensures **quality and security**  
-- Reduces **costs and risks**  
-- Enables **team collaboration**  
-- Leads to **customer satisfaction**
-
----
-
-## Summary
-Software Engineering provides:
-- A **structured process** to develop software.
-- **Standards** for quality and performance.
-- A **roadmap** for maintaining software throughout its life cycle.
-
 ---
 
 ## Recap
-### 1. Concept of Software Engineering
-Systematic approach to building and maintaining software.
+1. Concept of Software Engineering
+> Systematic approach to building and maintaining software.
 
-### 2. Concept of Scope
-Covers entire lifecycle: analysis → design → code → test → deploy → maintain.
+2. Concept of Scope
+> Covers entire lifecycle: analysis → design → code → test → deploy → maintain.
 
-### 3. Concept of Goal
-Deliver high-quality, reliable, maintainable, and cost-effective software.
+3. Concept of Goal
+> Deliver high-quality, reliable, maintainable, and cost-effective software.
 
 Next Step: Software vs. hardware
