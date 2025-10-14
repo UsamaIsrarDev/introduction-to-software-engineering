@@ -30,12 +30,12 @@ It’s about engineering software that is:
 ### Example : Imagine two people both want to create an e-commerce website.
 
 #### People as a coder approach
-  - Description - Starts coding immediately without planning, documentation, or testing.
-  - Result - Works at first, but breaks easily, hard to update.
+>  - Description: Starts coding immediately without planning, documentation, or testing.
+>  - Result: Works at first, but breaks easily, hard to update.
 
 #### People as a software engineer approach
-  - Description - Plans requirements, designs the system architecture, writes clean modular code, tests it, and maintains version control.
-  - Result - Stable, scalable, and easy to update.
+>  - Description: Plans requirements, designs the system architecture, writes clean modular code, tests it, and maintains version control.
+>  - Result: Stable, scalable, and easy to update.
 
 The second approach is software engineering.
 
@@ -43,39 +43,34 @@ The second approach is software engineering.
 
 ## Scope of Software Engineering
 
-Software Engineering covers every step of the software life cycle — from **ideas** to **maintenance**.  
-It ensures quality, user satisfaction, and cost efficiency.
-
-### Scope of Software Engineering
-
 The scope defines the areas and responsibilities included in the field.
 Software engineering covers the entire lifecycle of software — from idea to retirement.
 
 #### Software Development Life Cycle (SDLC) Stages
 
 ### 1. Requirements Analysis Stage
-(description) Understanding what the user or client needs. 
-(example) “Users should log in using email or Google.”
+> - Description: Understanding what the user or client needs. 
+> - Example: “Users should log in using email or Google.”
 
 ### 2. System Design Stage
-(description) Planning the architecture, database, and UI. 
-(example) Decide to use React frontend + Node backend.
+> - Description: Planning the architecture, database, and UI. 
+> - Example: Decide to use React frontend + Node backend.
 
 ### 3. Implementation (Coding) Stage 
-(description) Writing actual code using chosen technologies. 
-(example) Write clean, modular code in TypeScript.
+> - Description: Writing actual code using chosen technologies. 
+> - Example: Write clean, modular code in TypeScript.
 
 ### 4. Testing Stage 
-(description) Checking that the software works correctly and has no bugs. 
-(example) Unit testing, integration testing, UI testing.
+> - Description: Checking that the software works correctly and has no bugs. 
+> - Example: Unit testing, integration testing, UI testing.
 
 ### 5. Deployment Stage 
-(description) Delivering the software to users (e.g., on a web server). 
-(example) Deploy to Vercel or AWS.
+> - Description: Delivering the software to users (e.g., on a web server). 
+> - Example: Deploy to Vercel or AWS.
 
 ### 6. Maintenance & Updates Stage 
-(description) Fixing bugs, improving features, updating dependencies. 
-(example) Add new payment gateways, fix crashes, etc.
+> - Description: Fixing bugs, improving features, updating dependencies. 
+> - Example: Add new payment gateways, fix crashes, etc.
 
 ---
 
