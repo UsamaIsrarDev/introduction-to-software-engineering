@@ -3,8 +3,8 @@
 
 > ### You will learn:
 > - Waterfall Model
-> -Incremental Model
-> -Spiral Model
-> -V-Model
-> -Agile Methodologies (Scrum, Kanban, Extreme Programming)
-> -DevOps & Continuous Delivery
+> - Incremental Model
+> - Spiral Model
+> - V-Model
+> - Agile Methodologies (Scrum, Kanban, Extreme Programming)
+> - DevOps & Continuous Delivery
