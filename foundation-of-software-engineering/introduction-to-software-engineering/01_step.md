@@ -74,9 +74,10 @@
 
 ---
 
-## Relationship Between Software and Hardware
-
-- Software **gives instructions**.  
-- Hardware **executes** those instructions.  
+## Recap
+> ### Relationship Between Software and Hardware
+> - Software **gives instructions**.  
+> - Hardware **executes** those instructions.  
 
 ### Next Step: Software Characteristics & Applications
+
