@@ -23,26 +23,13 @@
 
 ## Causes of Software Crisis
 
-### Lack of Proper Methodology
-Projects had no defined process (like SDLC), leading to chaos and miscommunication.
-
-### Increasing Complexity
-Large programs were difficult to manage and understand.
-
-### Poor Project Management
-No time estimation, unclear roles, lack of coordination.
-
-### Unclear Requirements
-User needs were often unknown or constantly changing.
-
-### Low Reliability
-Software crashed, gave wrong outputs, or failed in critical systems.
-
-### Poor Maintenance
-Updating or fixing software was expensive and difficult.
-
-### Lack of Skilled Developers
-Few professionals understood large system design.
+- __Lack of Proper Methodology__ : Projects had no defined process (like SDLC), leading to chaos and miscommunication.
+- __Increasing Complexity__ : Large programs were difficult to manage and understand.
+- __Poor Project Management__ : No time estimation, unclear roles, lack of coordination.
+- __Unclear Requirements__ : User needs were often unknown or constantly changing.
+- __Low Reliability__ : Software crashed, gave wrong outputs, or failed in critical systems.
+- __Poor Maintenance__ : Updating or fixing software was expensive and difficult.
+- __Lack of Skilled Developers__ : Few professionals understood large system design.
 
 ---
 
@@ -99,3 +86,4 @@ Even after the software crisis, **false beliefs** about software continued among
 > - Software Engineering provides structure, methodology, and tools to deliver **reliable, maintainable, and scalable software**.
 
 ### Move to the Software Process Models
+
