@@ -22,4 +22,17 @@
 - __Deployment__ : Install and deliver the software to the user.
 - __Maintenance__ : Fix issues, update software as needed.
 
-Example: Building a bridge—design first, then build foundations, then the structure, then finishing touches. You can’t skip steps.
+__Example__: Building a bridge—design first, then build foundations, then the structure, then finishing touches. You can’t skip steps.
+
+#### Pros:
+
+- Easy to understand & manage.
+- Clear milestones & documentation.
+
+#### Cons:
+
+- Inflexible to changes.
+- Late detection of errors.
+
+__Note__ : Not ideal for complex or long-term projects.
+
