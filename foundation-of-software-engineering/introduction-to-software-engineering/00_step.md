@@ -114,4 +114,4 @@ Scope includes:
 - Concept of Scope : Covers entire lifecycle: analysis → design → code → test → deploy → maintain.
 - Concept of Goal : Deliver high-quality, reliable, maintainable, and cost-effective software.
 
-__Next Step: Software vs. hardware__
+### Next Step: Software vs. hardware
