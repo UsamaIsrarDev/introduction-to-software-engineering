@@ -91,11 +91,10 @@ Scope includes:
 
 ---
 
-## Summary
+## Recap
 
-> **Key Takeaways:**  
 > - Software is **engineered, complex, mutable, and logical**.  
 > - Software applications are **everywhere**: system software, applications, AI, embedded, web/cloud, gaming, and scientific.  
 > - Proper software engineering ensures **reliability, maintainability, and scalability**.
 
-__Next Step: Software Crisis & Myths__
+### Next Step: Software Crisis & Myths
