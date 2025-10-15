@@ -26,7 +26,10 @@ __Example__: Building a bridge—design first, then build foundations, then the 
 
 ### Diagram
 
-<img src="assets/water fall model.png" alt="Waterfall Model Diagram" style="width:400px; text-align:center">
+<div align="center">
+<img src="assets/water fall model.png" alt="Waterfall Model Diagram" style="width:400px;">
+  
+</div>
 
 #### Pros:
 
