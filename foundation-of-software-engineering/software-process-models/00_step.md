@@ -27,8 +27,7 @@ __Example__: Building a bridge—design first, then build foundations, then the 
 ### Diagram
 
 <div align="center">
-<img src="assets/water fall model.png" alt="Waterfall Model Diagram" style="width:400px;">
-  
+  <img src="assets/water fall model.png" alt="Waterfall Model Diagram" style="width:400px;">  
 </div>
 
 #### Pros:
@@ -42,4 +41,35 @@ __Example__: Building a bridge—design first, then build foundations, then the 
 - Late detection of errors.
 
 __Note__ : Not ideal for complex or long-term projects.
+
+---
+
+## Incremental Model
+
+> Definition:
+> The software is designed, implemented, and tested in small increments. Each increment adds functional features.
+
+#### Process:
+
+- Start with a small, basic version of the system.
+- Deliver it to the user.
+- Collect feedback, then add more features in subsequent increments.
+
+__Example__ : Mobile apps often release MVPs (Minimum Viable Products) first, then gradually add features like dark mode, push notifications, etc.
+
+### Diagram
+
+<div align="center">
+  <img src="assets/incremental model.png" alt="Incremental Model Diagram" style="width:400px;">  
+</div>
+
+#### Pros:
+- Early delivery of partial working software.
+- Easier to accommodate changes.
+
+#### Cons:
+- Requires good planning for architecture.
+- Integration between increments can be challenging.
+
+__Note__ : Best for projects where requirements can evolve gradually.
 
