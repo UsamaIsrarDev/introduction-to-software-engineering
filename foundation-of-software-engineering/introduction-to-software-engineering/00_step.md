@@ -110,8 +110,8 @@ Scope includes:
 ---
 
 ## Recap
-Concept of Software Engineering : Systematic approach to building and maintaining software.
-Concept of Scope : Covers entire lifecycle: analysis → design → code → test → deploy → maintain.
-Concept of Goal : Deliver high-quality, reliable, maintainable, and cost-effective software.
+- Concept of Software Engineering : Systematic approach to building and maintaining software.
+- Concept of Scope : Covers entire lifecycle: analysis → design → code → test → deploy → maintain.
+- Concept of Goal : Deliver high-quality, reliable, maintainable, and cost-effective software.
 
 __Next Step: Software vs. hardware__
