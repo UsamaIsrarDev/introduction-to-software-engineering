@@ -79,3 +79,4 @@
 - Software **gives instructions**.  
 - Hardware **executes** those instructions.  
 
+### Next Step: Software Characteristics & Applications
