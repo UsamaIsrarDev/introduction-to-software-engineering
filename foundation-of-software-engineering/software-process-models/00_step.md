@@ -27,7 +27,7 @@ __Example__: Building a bridge—design first, then build foundations, then the 
 ### Diagram
 
 ![Waterfall Model Diagram](assets/water%20fall%20model.png)
-<img src="assets/water fall model.png" alt="Waterfall Model Diagram" style="width:600px;">
+<img src="assets/water fall model.png" alt="Waterfall Model Diagram" style="width:400px; text-align:center">
 
 #### Pros:
 
