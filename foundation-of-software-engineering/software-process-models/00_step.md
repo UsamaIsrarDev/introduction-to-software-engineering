@@ -24,6 +24,10 @@
 
 __Example__: Building a bridge—design first, then build foundations, then the structure, then finishing touches. You can’t skip steps.
 
+### Diagram
+
+![Waterfall Model Diagram](./assets/water fall model.png)
+
 #### Pros:
 
 - Easy to understand & manage.
