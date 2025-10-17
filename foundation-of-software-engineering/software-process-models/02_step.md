@@ -9,6 +9,12 @@
 - Continuous stakeholder involvement.
 - Changes welcome at any stage.
 
+- ### Diagram
+
+<div align="center">
+  <img src="assets/agile methalogy.png" alt="Waterfall Model Diagram" style="width:400px;">  
+</div>
+
 ### Popular Agile Frameworks:
 
 #### Scrum
@@ -17,10 +23,22 @@
 - Work is divided into Sprints (2–4 weeks).
 - Daily stand-up meetings for progress updates.
 
+- ### Diagram
+
+<div align="center">
+  <img src="assets/scrum.jpg" alt="Waterfall Model Diagram" style="width:400px;">  
+</div>
+
 #### Kanban
 
 - Visual workflow management (using boards/cards).
 - Focuses on continuous delivery, limiting work in progress.
+
+### Diagram
+
+<div align="center">
+  <img src="assets/kanban.jpg" alt="Waterfall Model Diagram" style="width:400px;">  
+</div>
 
 #### Extreme Programming (XP)
 
@@ -53,6 +71,12 @@ __Example:__ Modern SaaS applications (like Spotify or Zoom) constantly release 
 
 __Example:__ Amazon or Netflix deploy code changes hundreds of times per day using DevOps pipelines.
 
+### Diagram
+
+<div align="center">
+  <img src="assets/devOps and contineous delivery.png" alt="Waterfall Model Diagram" style="width:400px;">  
+</div>
+
 #### Pros:
 - Faster time to market.
 - Higher software quality & reliability.
@@ -60,4 +84,5 @@ __Example:__ Amazon or Netflix deploy code changes hundreds of times per day usi
 #### Cons:
 - Requires skilled engineers & proper tooling.
 - Initial setup can be expensive.
+
 
