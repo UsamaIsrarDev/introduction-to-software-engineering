@@ -12,7 +12,11 @@
 
 __Example:__ Developing a complex AI system. You build prototypes, evaluate risks, refine, and repeat in cycles.
 
+### Diagram
 
+<div align="center">
+  <img src="assets/spiral model.png" alt="Spiral Model Diagram" style="width:400px;">  
+</div>
 
 #### Pros:
 - Good for large, high-risk projects.
@@ -27,3 +31,24 @@ __Example:__ Developing a complex AI system. You build prototypes, evaluate risk
 > __Definition:__
 > An extension of Waterfall, where each development phase has a corresponding testing phase. The model forms a “V” shape.
 
+### Diagram
+
+<div align="center">
+  <img src="assets/v-shaped model.png" alt="V-shaped Model Diagram" style="width:400px;">  
+</div>
+
+### Structure:
+
+Requirements ---> System Design ---> Module Design ---> Coding
+      |                 |                |              
+   Acceptance Test  System Test      Unit Test
+
+__Example:__ Aerospace software—every stage has rigorous testing (unit test, integration test, system test).
+
+#### Pros:
+- Clear relationship between development & testing.
+- Bugs detected early.
+
+#### Cons:
+- Inflexible like Waterfall.
+- Not suitable for projects with changing requirements.
